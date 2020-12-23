@@ -1,0 +1,26 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindWordAtCaret" />
+  <action id="GotoFile" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="ProjectViewChangeView" />
+  <action id="SelectIn" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="ToggleBookmark1" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="WelcomeScreen.OpenSelected">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+</keymap>

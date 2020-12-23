@@ -1,0 +1,7 @@
+<application>
+  <component name="codeglance2">
+    <option name="locked" value="true" />
+    <option name="minLineCount" value="10" />
+    <option name="pixelsPerLine" value="4" />
+  </component>
+</application>
